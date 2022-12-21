@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+.print__bg{
+  background: whitesmoke;
+  margin-bottom: 2%;
+}
+
+.heading__parent-ty{
+  background: green;
+}
+
+.heading-print{
+  margin-left: 18%;
+}
+@media screen  and (max-width:820px){
+  .heading-print{
+    margin-left: 18%;
+    font-size: medium;
+  } 
+}
+
+.REFEREES{
+  margin-bottom: 4%;
+  background: blueviolet;
+}
+
+.name_parent{
+  margin-left: -2%; 
+}
+
+.name_text{
+  text-decoration: underline;
+}
+

@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+.USE__Philosophy{
+  margin-top: 9.6%;
+}
+.sub_header__PH{
+  text-decoration: underline;
+}
